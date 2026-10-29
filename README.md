@@ -2,6 +2,18 @@
 
 Windows 图片 A/B 对比工具：把两张图片放在同一块画布中切换，快速观察补光、修图、压缩或算法处理前后的差异。当前版本为 1.2。
 
+## 导入图片后的效果
+
+以下是实际 WinForms 界面，已经导入 3 组演示图片。测试图是公开展示用的合成素材，A/B 的亮度不同，用于展示同一位置切换、侧边目录与同步导航；程序本身只比较图片，不执行修图。
+
+**A 图**
+
+![已导入图片的 A 侧界面](docs/images/compare-a.png)
+
+**按空格切换后的 B 图**
+
+![同一位置显示 B 图](docs/images/compare-b.png)
+
 ## 下载与启动
 
 **[下载完整可运行版](https://github.com/ylele1479-collab/image-sync-compare/releases/latest)**，下载 `ImageSyncCompare-Windows-v1.2.zip`，全部解压后双击 `ImageCompare.exe`。仓库根目录也提供同一 EXE。
